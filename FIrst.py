@@ -1,9 +1,9 @@
 age = input("Enter your age:")
 
-if age >= 18:
+if age >= 20:
     print("You are an adult")
 
-elif age < 18:
+elif age < 20:
     print("You are a minor")
 
 else:
